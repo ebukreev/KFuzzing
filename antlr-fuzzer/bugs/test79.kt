@@ -1,0 +1,25 @@
+ 
+  #!  
+ 
+ 
+ @file : [ reified ( ) noinline public ( ) ] @file : init ( try { } catch ( suspend : external ) { } catch ( import : import ) { } catch ( protected : protected ) { } -- ) typealias protected = dynamic    object out object annotation class internal class final class reified interface finally interface init interface data interface constructor object public typealias suspend = internal object protected open interface override class import interface Test { 
+ fun external ( ) class enum constructor ( ) companion object object data object import fun test ( ) : String { fun ( ) {  { 
+  ->   } 
+ } 
+  object { } && """ """ return "                                                                                                                                                                              OK                                                                                                                                                                                  $                                                                                                                                     $                                                                                                                                                                                                                                                                                         $                            $      $                                                                                                                                                                                                                                                     $                                                                                         $                                                                                                                                                                                $                                                                                                                                             $                                                                                                                     $                                         $                                                                                                                                                                                                                            $                                                                                                                                                                                                                                                                                     $                               $                                                                                                                                                                                                                                                                                                      $                                                                                              $                       $                    $                                                                                                                                                                                      $               $                                                                                                                                             $                                           $         $                                                   $                                                                                                                                                                                                                                                                        $                                                                                                                $       $            $                             $                                                                                                                                                                                                                                                            $                                                                                                                                                                                                                                                                                    $                                                                      " 
+ ; ; ; ; ;   ; ; 
+ } ;   
+  
+ ; 
+ 
+ ; ;  ; ; 
+ 
+ ; 
+ 
+ 
+ ; ;   
+ ; ; ; ; ; ; ;  ;    
+ fun testAbstract ( ) : String 
+ ; ; } ;  ; ; 
+  ;  ; ; 
+ 

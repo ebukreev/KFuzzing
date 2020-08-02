@@ -1,0 +1,762 @@
+ fun main(args: Array<String>) { args.size } class	fun main(args: Array<String>) { args.size } class
+fun main(args: Array<String>) { args.size } class 	un main(args: Array<String>) { args.size } class 
+un main(args: Array<String>) { args.size } class T	n main(args: Array<String>) { args.size } class T
+n main(args: Array<String>) { args.size } class Te	 main(args: Array<String>) { args.size } class Te
+ main(args: Array<String>) { args.size } class Tes	main(args: Array<String>) { args.size } class Tes
+main(args: Array<String>) { args.size } class Test	ain(args: Array<String>) { args.size } class Test
+ain(args: Array<String>) { args.size } class Test(	in(args: Array<String>) { args.size } class Test(
+in(args: Array<String>) { args.size } class Test(v	n(args: Array<String>) { args.size } class Test(v
+n(args: Array<String>) { args.size } class Test(va	(args: Array<String>) { args.size } class Test(va
+(args: Array<String>) { args.size } class Test(val	args: Array<String>) { args.size } class Test(val
+args: Array<String>) { args.size } class Test(val 	rgs: Array<String>) { args.size } class Test(val 
+rgs: Array<String>) { args.size } class Test(val a	gs: Array<String>) { args.size } class Test(val a
+gs: Array<String>) { args.size } class Test(val a:	s: Array<String>) { args.size } class Test(val a:
+s: Array<String>) { args.size } class Test(val a: 	: Array<String>) { args.size } class Test(val a: 
+: Array<String>) { args.size } class Test(val a: I	 Array<String>) { args.size } class Test(val a: I
+ Array<String>) { args.size } class Test(val a: In	Array<String>) { args.size } class Test(val a: In
+Array<String>) { args.size } class Test(val a: Int	rray<String>) { args.size } class Test(val a: Int
+ fun main(args: Array<String>) { args.size } class	fun main(args: Array<String>) { args.size } class
+fun main(args: Array<String>) { args.size } class 	un main(args: Array<String>) { args.size } class 
+un main(args: Array<String>) { args.size } class T	n main(args: Array<String>) { args.size } class T
+n main(args: Array<String>) { args.size } class Te	 main(args: Array<String>) { args.size } class Te
+ main(args: Array<String>) { args.size } class Tes	main(args: Array<String>) { args.size } class Tes
+main(args: Array<String>) { args.size } class Test	ain(args: Array<String>) { args.size } class Test
+ain(args: Array<String>) { args.size } class Test(	in(args: Array<String>) { args.size } class Test(
+in(args: Array<String>) { args.size } class Test(v	n(args: Array<String>) { args.size } class Test(v
+n(args: Array<String>) { args.size } class Test(va	(args: Array<String>) { args.size } class Test(va
+(args: Array<String>) { args.size } class Test(val	args: Array<String>) { args.size } class Test(val
+args: Array<String>) { args.size } class Test(val 	rgs: Array<String>) { args.size } class Test(val 
+rgs: Array<String>) { args.size } class Test(val a	gs: Array<String>) { args.size } class Test(val a
+gs: Array<String>) { args.size } class Test(val a:	s: Array<String>) { args.size } class Test(val a:
+s: Array<String>) { args.size } class Test(val a: 	: Array<String>) { args.size } class Test(val a: 
+: Array<String>) { args.size } class Test(val a: I	 Array<String>) { args.size } class Test(val a: I
+ Array<String>) { args.size } class Test(val a: In	Array<String>) { args.size } class Test(val a: In
+Array<String>) { args.size } class Test(val a: Int	rray<String>) { args.size } class Test(val a: Int
+ public class JavaClass{ public static <T> T id(T 	public class JavaClass{ public static <T> T id(T 
+public class JavaClass{ public static <T> T id(T x	ublic class JavaClass{ public static <T> T id(T x
+ublic class JavaClass{ public static <T> T id(T x)	blic class JavaClass{ public static <T> T id(T x)
+blic class JavaClass{ public static <T> T id(T x) 	lic class JavaClass{ public static <T> T id(T x) 
+lic class JavaClass{ public static <T> T id(T x) {	ic class JavaClass{ public static <T> T id(T x) {
+ic class JavaClass{ public static <T> T id(T x) { 	c class JavaClass{ public static <T> T id(T x) { 
+c class JavaClass{ public static <T> T id(T x) { r	 class JavaClass{ public static <T> T id(T x) { r
+ class JavaClass{ public static <T> T id(T x) { re	class JavaClass{ public static <T> T id(T x) { re
+class JavaClass{ public static <T> T id(T x) { ret	lass JavaClass{ public static <T> T id(T x) { ret
+lass JavaClass{ public static <T> T id(T x) { retu	ass JavaClass{ public static <T> T id(T x) { retu
+ass JavaClass{ public static <T> T id(T x) { retur	ss JavaClass{ public static <T> T id(T x) { retur
+ss JavaClass{ public static <T> T id(T x) { return	s JavaClass{ public static <T> T id(T x) { return
+s JavaClass{ public static <T> T id(T x) { return 	 JavaClass{ public static <T> T id(T x) { return 
+ JavaClass{ public static <T> T id(T x) { return n	JavaClass{ public static <T> T id(T x) { return n
+JavaClass{ public static <T> T id(T x) { return nu	avaClass{ public static <T> T id(T x) { return nu
+avaClass{ public static <T> T id(T x) { return nul	vaClass{ public static <T> T id(T x) { return nul
+vaClass{ public static <T> T id(T x) { return null	aClass{ public static <T> T id(T x) { return null
+aClass{ public static <T> T id(T x) { return null;	Class{ public static <T> T id(T x) { return null;
+Class{ public static <T> T id(T x) { return null; 	lass{ public static <T> T id(T x) { return null; 
+lass{ public static <T> T id(T x) { return null; }	ass{ public static <T> T id(T x) { return null; }
+ass{ public static <T> T id(T x) { return null; } 	ss{ public static <T> T id(T x) { return null; } 
+ss{ public static <T> T id(T x) { return null; } }	s{ public static <T> T id(T x) { return null; } }
+s{ public static <T> T id(T x) { return null; } } 	{ public static <T> T id(T x) { return null; } } 
+{ public static <T> T id(T x) { return null; } } f	 public static <T> T id(T x) { return null; } } f
+ public static <T> T id(T x) { return null; } } fu	public static <T> T id(T x) { return null; } } fu
+public static <T> T id(T x) { return null; } } fun	ublic static <T> T id(T x) { return null; } } fun
+ublic static <T> T id(T x) { return null; } } fun 	blic static <T> T id(T x) { return null; } } fun 
+blic static <T> T id(T x) { return null; } } fun b	lic static <T> T id(T x) { return null; } } fun b
+lic static <T> T id(T x) { return null; } } fun bo	ic static <T> T id(T x) { return null; } } fun bo
+ic static <T> T id(T x) { return null; } } fun box	c static <T> T id(T x) { return null; } } fun box
+c static <T> T id(T x) { return null; } } fun box(	 static <T> T id(T x) { return null; } } fun box(
+ static <T> T id(T x) { return null; } } fun box()	static <T> T id(T x) { return null; } } fun box()
+static <T> T id(T x) { return null; } } fun box():	tatic <T> T id(T x) { return null; } } fun box():
+tatic <T> T id(T x) { return null; } } fun box(): 	atic <T> T id(T x) { return null; } } fun box(): 
+atic <T> T id(T x) { return null; } } fun box(): S	tic <T> T id(T x) { return null; } } fun box(): S
+tic <T> T id(T x) { return null; } } fun box(): St	ic <T> T id(T x) { return null; } } fun box(): St
+ic <T> T id(T x) { return null; } } fun box(): Str	c <T> T id(T x) { return null; } } fun box(): Str
+c <T> T id(T x) { return null; } } fun box(): Stri	 <T> T id(T x) { return null; } } fun box(): Stri
+ <T> T id(T x) { return null; } } fun box(): Strin	<T> T id(T x) { return null; } } fun box(): Strin
+<T> T id(T x) { return null; } } fun box(): String	T> T id(T x) { return null; } } fun box(): String
+T> T id(T x) { return null; } } fun box(): String 	> T id(T x) { return null; } } fun box(): String 
+> T id(T x) { return null; } } fun box(): String {	 T id(T x) { return null; } } fun box(): String {
+ T id(T x) { return null; } } fun box(): String { 	T id(T x) { return null; } } fun box(): String { 
+T id(T x) { return null; } } fun box(): String { v	 id(T x) { return null; } } fun box(): String { v
+ id(T x) { return null; } } fun box(): String { va	id(T x) { return null; } } fun box(): String { va
+id(T x) { return null; } } fun box(): String { val	d(T x) { return null; } } fun box(): String { val
+d(T x) { return null; } } fun box(): String { val 	(T x) { return null; } } fun box(): String { val 
+(T x) { return null; } } fun box(): String { val x	T x) { return null; } } fun box(): String { val x
+T x) { return null; } } fun box(): String { val x 	 x) { return null; } } fun box(): String { val x 
+ x) { return null; } } fun box(): String { val x =	x) { return null; } } fun box(): String { val x =
+x) { return null; } } fun box(): String { val x = 	) { return null; } } fun box(): String { val x = 
+) { return null; } } fun box(): String { val x = J	 { return null; } } fun box(): String { val x = J
+ { return null; } } fun box(): String { val x = Ja	{ return null; } } fun box(): String { val x = Ja
+{ return null; } } fun box(): String { val x = Jav	 return null; } } fun box(): String { val x = Jav
+ return null; } } fun box(): String { val x = Java	return null; } } fun box(): String { val x = Java
+return null; } } fun box(): String { val x = JavaC	eturn null; } } fun box(): String { val x = JavaC
+eturn null; } } fun box(): String { val x = JavaCl	turn null; } } fun box(): String { val x = JavaCl
+turn null; } } fun box(): String { val x = JavaCla	urn null; } } fun box(): String { val x = JavaCla
+urn null; } } fun box(): String { val x = JavaClas	rn null; } } fun box(): String { val x = JavaClas
+rn null; } } fun box(): String { val x = JavaClass	n null; } } fun box(): String { val x = JavaClass
+n null; } } fun box(): String { val x = JavaClass.	 null; } } fun box(): String { val x = JavaClass.
+ null; } } fun box(): String { val x = JavaClass.i	null; } } fun box(): String { val x = JavaClass.i
+null; } } fun box(): String { val x = JavaClass.id	ull; } } fun box(): String { val x = JavaClass.id
+ull; } } fun box(): String { val x = JavaClass.id(	ll; } } fun box(): String { val x = JavaClass.id(
+ll; } } fun box(): String { val x = JavaClass.id(n	l; } } fun box(): String { val x = JavaClass.id(n
+l; } } fun box(): String { val x = JavaClass.id(nu	; } } fun box(): String { val x = JavaClass.id(nu
+; } } fun box(): String { val x = JavaClass.id(nul	 } } fun box(): String { val x = JavaClass.id(nul
+ } } fun box(): String { val x = JavaClass.id(null	} } fun box(): String { val x = JavaClass.id(null
+} } fun box(): String { val x = JavaClass.id(null)	 } fun box(): String { val x = JavaClass.id(null)
+ } fun box(): String { val x = JavaClass.id(null) 	} fun box(): String { val x = JavaClass.id(null) 
+} fun box(): String { val x = JavaClass.id(null) r	 fun box(): String { val x = JavaClass.id(null) r
+ fun box(): String { val x = JavaClass.id(null) re	fun box(): String { val x = JavaClass.id(null) re
+fun box(): String { val x = JavaClass.id(null) ret	un box(): String { val x = JavaClass.id(null) ret
+un box(): String { val x = JavaClass.id(null) retu	n box(): String { val x = JavaClass.id(null) retu
+n box(): String { val x = JavaClass.id(null) retur	 box(): String { val x = JavaClass.id(null) retur
+ box(): String { val x = JavaClass.id(null) return	box(): String { val x = JavaClass.id(null) return
+box(): String { val x = JavaClass.id(null) return 	ox(): String { val x = JavaClass.id(null) return 
+ox(): String { val x = JavaClass.id(null) return t	x(): String { val x = JavaClass.id(null) return t
+x(): String { val x = JavaClass.id(null) return tr	(): String { val x = JavaClass.id(null) return tr
+(): String { val x = JavaClass.id(null) return try	): String { val x = JavaClass.id(null) return try
+): String { val x = JavaClass.id(null) return try 	: String { val x = JavaClass.id(null) return try 
+: String { val x = JavaClass.id(null) return try {	 String { val x = JavaClass.id(null) return try {
+ String { val x = JavaClass.id(null) return try { 	String { val x = JavaClass.id(null) return try { 
+String { val x = JavaClass.id(null) return try { v	tring { val x = JavaClass.id(null) return try { v
+tring { val x = JavaClass.id(null) return try { va	ring { val x = JavaClass.id(null) return try { va
+ring { val x = JavaClass.id(null) return try { val	ing { val x = JavaClass.id(null) return try { val
+ing { val x = JavaClass.id(null) return try { val 	ng { val x = JavaClass.id(null) return try { val 
+ng { val x = JavaClass.id(null) return try { val a	g { val x = JavaClass.id(null) return try { val a
+g { val x = JavaClass.id(null) return try { val a 	 { val x = JavaClass.id(null) return try { val a 
+ { val x = JavaClass.id(null) return try { val a =	{ val x = JavaClass.id(null) return try { val a =
+{ val x = JavaClass.id(null) return try { val a = 	 val x = JavaClass.id(null) return try { val a = 
+ val x = JavaClass.id(null) return try { val a = i	val x = JavaClass.id(null) return try { val a = i
+val x = JavaClass.id(null) return try { val a = if	al x = JavaClass.id(null) return try { val a = if
+al x = JavaClass.id(null) return try { val a = if 	l x = JavaClass.id(null) return try { val a = if 
+l x = JavaClass.id(null) return try { val a = if (	 x = JavaClass.id(null) return try { val a = if (
+ x = JavaClass.id(null) return try { val a = if (x	x = JavaClass.id(null) return try { val a = if (x
+x = JavaClass.id(null) return try { val a = if (x)	 = JavaClass.id(null) return try { val a = if (x)
+ = JavaClass.id(null) return try { val a = if (x) 	= JavaClass.id(null) return try { val a = if (x) 
+= JavaClass.id(null) return try { val a = if (x) {	 JavaClass.id(null) return try { val a = if (x) {
+ JavaClass.id(null) return try { val a = if (x) { 	JavaClass.id(null) return try { val a = if (x) { 
+JavaClass.id(null) return try { val a = if (x) { "	avaClass.id(null) return try { val a = if (x) { "
+avaClass.id(null) return try { val a = if (x) { "N	vaClass.id(null) return try { val a = if (x) { "N
+vaClass.id(null) return try { val a = if (x) { "NO	aClass.id(null) return try { val a = if (x) { "NO
+aClass.id(null) return try { val a = if (x) { "NOK	Class.id(null) return try { val a = if (x) { "NOK
+Class.id(null) return try { val a = if (x) { "NOK"	lass.id(null) return try { val a = if (x) { "NOK"
+lass.id(null) return try { val a = if (x) { "NOK" 	ass.id(null) return try { val a = if (x) { "NOK" 
+ass.id(null) return try { val a = if (x) { "NOK" }	ss.id(null) return try { val a = if (x) { "NOK" }
+ss.id(null) return try { val a = if (x) { "NOK" } 	s.id(null) return try { val a = if (x) { "NOK" } 
+s.id(null) return try { val a = if (x) { "NOK" } e	.id(null) return try { val a = if (x) { "NOK" } e
+.id(null) return try { val a = if (x) { "NOK" } el	id(null) return try { val a = if (x) { "NOK" } el
+id(null) return try { val a = if (x) { "NOK" } els	d(null) return try { val a = if (x) { "NOK" } els
+d(null) return try { val a = if (x) { "NOK" } else	(null) return try { val a = if (x) { "NOK" } else
+(null) return try { val a = if (x) { "NOK" } else 	null) return try { val a = if (x) { "NOK" } else 
+null) return try { val a = if (x) { "NOK" } else "	ull) return try { val a = if (x) { "NOK" } else "
+ull) return try { val a = if (x) { "NOK" } else "N	ll) return try { val a = if (x) { "NOK" } else "N
+ll) return try { val a = if (x) { "NOK" } else "NO	l) return try { val a = if (x) { "NOK" } else "NO
+l) return try { val a = if (x) { "NOK" } else "NOK	) return try { val a = if (x) { "NOK" } else "NOK
+) return try { val a = if (x) { "NOK" } else "NOK"	 return try { val a = if (x) { "NOK" } else "NOK"
+ return try { val a = if (x) { "NOK" } else "NOK" 	return try { val a = if (x) { "NOK" } else "NOK" 
+return try { val a = if (x) { "NOK" } else "NOK" a	eturn try { val a = if (x) { "NOK" } else "NOK" a
+eturn try { val a = if (x) { "NOK" } else "NOK" a 	turn try { val a = if (x) { "NOK" } else "NOK" a 
+turn try { val a = if (x) { "NOK" } else "NOK" a }	urn try { val a = if (x) { "NOK" } else "NOK" a }
+urn try { val a = if (x) { "NOK" } else "NOK" a } 	rn try { val a = if (x) { "NOK" } else "NOK" a } 
+rn try { val a = if (x) { "NOK" } else "NOK" a } c	n try { val a = if (x) { "NOK" } else "NOK" a } c
+n try { val a = if (x) { "NOK" } else "NOK" a } ca	 try { val a = if (x) { "NOK" } else "NOK" a } ca
+ try { val a = if (x) { "NOK" } else "NOK" a } cat	try { val a = if (x) { "NOK" } else "NOK" a } cat
+try { val a = if (x) { "NOK" } else "NOK" a } catc	ry { val a = if (x) { "NOK" } else "NOK" a } catc
+ry { val a = if (x) { "NOK" } else "NOK" a } catch	y { val a = if (x) { "NOK" } else "NOK" a } catch
+y { val a = if (x) { "NOK" } else "NOK" a } catch 	 { val a = if (x) { "NOK" } else "NOK" a } catch 
+ { val a = if (x) { "NOK" } else "NOK" a } catch (	{ val a = if (x) { "NOK" } else "NOK" a } catch (
+{ val a = if (x) { "NOK" } else "NOK" a } catch (e	 val a = if (x) { "NOK" } else "NOK" a } catch (e
+ val a = if (x) { "NOK" } else "NOK" a } catch (e:	val a = if (x) { "NOK" } else "NOK" a } catch (e:
+val a = if (x) { "NOK" } else "NOK" a } catch (e: 	al a = if (x) { "NOK" } else "NOK" a } catch (e: 
+al a = if (x) { "NOK" } else "NOK" a } catch (e: j	l a = if (x) { "NOK" } else "NOK" a } catch (e: j
+l a = if (x) { "NOK" } else "NOK" a } catch (e: ja	 a = if (x) { "NOK" } else "NOK" a } catch (e: ja
+ a = if (x) { "NOK" } else "NOK" a } catch (e: jav	a = if (x) { "NOK" } else "NOK" a } catch (e: jav
+a = if (x) { "NOK" } else "NOK" a } catch (e: java	 = if (x) { "NOK" } else "NOK" a } catch (e: java
+ = if (x) { "NOK" } else "NOK" a } catch (e: java.	= if (x) { "NOK" } else "NOK" a } catch (e: java.
+= if (x) { "NOK" } else "NOK" a } catch (e: java.l	 if (x) { "NOK" } else "NOK" a } catch (e: java.l
+ if (x) { "NOK" } else "NOK" a } catch (e: java.la	if (x) { "NOK" } else "NOK" a } catch (e: java.la
+if (x) { "NOK" } else "NOK" a } catch (e: java.lan	f (x) { "NOK" } else "NOK" a } catch (e: java.lan
+f (x) { "NOK" } else "NOK" a } catch (e: java.lang	 (x) { "NOK" } else "NOK" a } catch (e: java.lang
+ (x) { "NOK" } else "NOK" a } catch (e: java.lang.	(x) { "NOK" } else "NOK" a } catch (e: java.lang.
+(x) { "NOK" } else "NOK" a } catch (e: java.lang.I	x) { "NOK" } else "NOK" a } catch (e: java.lang.I
+x) { "NOK" } else "NOK" a } catch (e: java.lang.Il	) { "NOK" } else "NOK" a } catch (e: java.lang.Il
+) { "NOK" } else "NOK" a } catch (e: java.lang.Ill	 { "NOK" } else "NOK" a } catch (e: java.lang.Ill
+ { "NOK" } else "NOK" a } catch (e: java.lang.Ille	{ "NOK" } else "NOK" a } catch (e: java.lang.Ille
+{ "NOK" } else "NOK" a } catch (e: java.lang.Illeg	 "NOK" } else "NOK" a } catch (e: java.lang.Illeg
+ "NOK" } else "NOK" a } catch (e: java.lang.Illega	"NOK" } else "NOK" a } catch (e: java.lang.Illega
+"NOK" } else "NOK" a } catch (e: java.lang.Illegal	NOK" } else "NOK" a } catch (e: java.lang.Illegal
+NOK" } else "NOK" a } catch (e: java.lang.IllegalS	OK" } else "NOK" a } catch (e: java.lang.IllegalS
+OK" } else "NOK" a } catch (e: java.lang.IllegalSt	K" } else "NOK" a } catch (e: java.lang.IllegalSt
+K" } else "NOK" a } catch (e: java.lang.IllegalSta	" } else "NOK" a } catch (e: java.lang.IllegalSta
+" } else "NOK" a } catch (e: java.lang.IllegalStat	 } else "NOK" a } catch (e: java.lang.IllegalStat
+ } else "NOK" a } catch (e: java.lang.IllegalState	} else "NOK" a } catch (e: java.lang.IllegalState
+} else "NOK" a } catch (e: java.lang.IllegalStateE	 else "NOK" a } catch (e: java.lang.IllegalStateE
+ else "NOK" a } catch (e: java.lang.IllegalStateEx	else "NOK" a } catch (e: java.lang.IllegalStateEx
+else "NOK" a } catch (e: java.lang.IllegalStateExc	lse "NOK" a } catch (e: java.lang.IllegalStateExc
+lse "NOK" a } catch (e: java.lang.IllegalStateExce	se "NOK" a } catch (e: java.lang.IllegalStateExce
+se "NOK" a } catch (e: java.lang.IllegalStateExcep	e "NOK" a } catch (e: java.lang.IllegalStateExcep
+e "NOK" a } catch (e: java.lang.IllegalStateExcept	 "NOK" a } catch (e: java.lang.IllegalStateExcept
+ "NOK" a } catch (e: java.lang.IllegalStateExcepti	"NOK" a } catch (e: java.lang.IllegalStateExcepti
+"NOK" a } catch (e: java.lang.IllegalStateExceptio	NOK" a } catch (e: java.lang.IllegalStateExceptio
+NOK" a } catch (e: java.lang.IllegalStateException	OK" a } catch (e: java.lang.IllegalStateException
+OK" a } catch (e: java.lang.IllegalStateException)	K" a } catch (e: java.lang.IllegalStateException)
+K" a } catch (e: java.lang.IllegalStateException) 	" a } catch (e: java.lang.IllegalStateException) 
+" a } catch (e: java.lang.IllegalStateException) {	 a } catch (e: java.lang.IllegalStateException) {
+ a } catch (e: java.lang.IllegalStateException) { 	a } catch (e: java.lang.IllegalStateException) { 
+a } catch (e: java.lang.IllegalStateException) { "	 } catch (e: java.lang.IllegalStateException) { "
+ } catch (e: java.lang.IllegalStateException) { "O	} catch (e: java.lang.IllegalStateException) { "O
+} catch (e: java.lang.IllegalStateException) { "OK	 catch (e: java.lang.IllegalStateException) { "OK
+ catch (e: java.lang.IllegalStateException) { "OK"	catch (e: java.lang.IllegalStateException) { "OK"
+catch (e: java.lang.IllegalStateException) { "OK" 	atch (e: java.lang.IllegalStateException) { "OK" 
+atch (e: java.lang.IllegalStateException) { "OK" }	tch (e: java.lang.IllegalStateException) { "OK" }
+ public class JavaClass{ public static <T> T id(T 	public class JavaClass{ public static <T> T id(T 
+public class JavaClass{ public static <T> T id(T x	ublic class JavaClass{ public static <T> T id(T x
+ublic class JavaClass{ public static <T> T id(T x)	blic class JavaClass{ public static <T> T id(T x)
+blic class JavaClass{ public static <T> T id(T x) 	lic class JavaClass{ public static <T> T id(T x) 
+lic class JavaClass{ public static <T> T id(T x) {	ic class JavaClass{ public static <T> T id(T x) {
+ic class JavaClass{ public static <T> T id(T x) { 	c class JavaClass{ public static <T> T id(T x) { 
+c class JavaClass{ public static <T> T id(T x) { r	 class JavaClass{ public static <T> T id(T x) { r
+ class JavaClass{ public static <T> T id(T x) { re	class JavaClass{ public static <T> T id(T x) { re
+class JavaClass{ public static <T> T id(T x) { ret	lass JavaClass{ public static <T> T id(T x) { ret
+lass JavaClass{ public static <T> T id(T x) { retu	ass JavaClass{ public static <T> T id(T x) { retu
+ass JavaClass{ public static <T> T id(T x) { retur	ss JavaClass{ public static <T> T id(T x) { retur
+ss JavaClass{ public static <T> T id(T x) { return	s JavaClass{ public static <T> T id(T x) { return
+s JavaClass{ public static <T> T id(T x) { return 	 JavaClass{ public static <T> T id(T x) { return 
+ JavaClass{ public static <T> T id(T x) { return n	JavaClass{ public static <T> T id(T x) { return n
+JavaClass{ public static <T> T id(T x) { return nu	avaClass{ public static <T> T id(T x) { return nu
+avaClass{ public static <T> T id(T x) { return nul	vaClass{ public static <T> T id(T x) { return nul
+vaClass{ public static <T> T id(T x) { return null	aClass{ public static <T> T id(T x) { return null
+aClass{ public static <T> T id(T x) { return null;	Class{ public static <T> T id(T x) { return null;
+Class{ public static <T> T id(T x) { return null; 	lass{ public static <T> T id(T x) { return null; 
+lass{ public static <T> T id(T x) { return null; }	ass{ public static <T> T id(T x) { return null; }
+ass{ public static <T> T id(T x) { return null; } 	ss{ public static <T> T id(T x) { return null; } 
+ss{ public static <T> T id(T x) { return null; } }	s{ public static <T> T id(T x) { return null; } }
+s{ public static <T> T id(T x) { return null; } } 	{ public static <T> T id(T x) { return null; } } 
+{ public static <T> T id(T x) { return null; } } f	 public static <T> T id(T x) { return null; } } f
+ public static <T> T id(T x) { return null; } } fu	public static <T> T id(T x) { return null; } } fu
+public static <T> T id(T x) { return null; } } fun	ublic static <T> T id(T x) { return null; } } fun
+ublic static <T> T id(T x) { return null; } } fun 	blic static <T> T id(T x) { return null; } } fun 
+blic static <T> T id(T x) { return null; } } fun b	lic static <T> T id(T x) { return null; } } fun b
+lic static <T> T id(T x) { return null; } } fun bo	ic static <T> T id(T x) { return null; } } fun bo
+ic static <T> T id(T x) { return null; } } fun box	c static <T> T id(T x) { return null; } } fun box
+c static <T> T id(T x) { return null; } } fun box(	 static <T> T id(T x) { return null; } } fun box(
+ static <T> T id(T x) { return null; } } fun box()	static <T> T id(T x) { return null; } } fun box()
+static <T> T id(T x) { return null; } } fun box():	tatic <T> T id(T x) { return null; } } fun box():
+tatic <T> T id(T x) { return null; } } fun box(): 	atic <T> T id(T x) { return null; } } fun box(): 
+atic <T> T id(T x) { return null; } } fun box(): S	tic <T> T id(T x) { return null; } } fun box(): S
+tic <T> T id(T x) { return null; } } fun box(): St	ic <T> T id(T x) { return null; } } fun box(): St
+ic <T> T id(T x) { return null; } } fun box(): Str	c <T> T id(T x) { return null; } } fun box(): Str
+c <T> T id(T x) { return null; } } fun box(): Stri	 <T> T id(T x) { return null; } } fun box(): Stri
+ <T> T id(T x) { return null; } } fun box(): Strin	<T> T id(T x) { return null; } } fun box(): Strin
+<T> T id(T x) { return null; } } fun box(): String	T> T id(T x) { return null; } } fun box(): String
+T> T id(T x) { return null; } } fun box(): String 	> T id(T x) { return null; } } fun box(): String 
+> T id(T x) { return null; } } fun box(): String {	 T id(T x) { return null; } } fun box(): String {
+ T id(T x) { return null; } } fun box(): String { 	T id(T x) { return null; } } fun box(): String { 
+T id(T x) { return null; } } fun box(): String { v	 id(T x) { return null; } } fun box(): String { v
+ id(T x) { return null; } } fun box(): String { va	id(T x) { return null; } } fun box(): String { va
+id(T x) { return null; } } fun box(): String { val	d(T x) { return null; } } fun box(): String { val
+d(T x) { return null; } } fun box(): String { val 	(T x) { return null; } } fun box(): String { val 
+(T x) { return null; } } fun box(): String { val x	T x) { return null; } } fun box(): String { val x
+T x) { return null; } } fun box(): String { val x 	 x) { return null; } } fun box(): String { val x 
+ x) { return null; } } fun box(): String { val x =	x) { return null; } } fun box(): String { val x =
+x) { return null; } } fun box(): String { val x = 	) { return null; } } fun box(): String { val x = 
+) { return null; } } fun box(): String { val x = J	 { return null; } } fun box(): String { val x = J
+ { return null; } } fun box(): String { val x = Ja	{ return null; } } fun box(): String { val x = Ja
+{ return null; } } fun box(): String { val x = Jav	 return null; } } fun box(): String { val x = Jav
+ return null; } } fun box(): String { val x = Java	return null; } } fun box(): String { val x = Java
+return null; } } fun box(): String { val x = JavaC	eturn null; } } fun box(): String { val x = JavaC
+eturn null; } } fun box(): String { val x = JavaCl	turn null; } } fun box(): String { val x = JavaCl
+turn null; } } fun box(): String { val x = JavaCla	urn null; } } fun box(): String { val x = JavaCla
+urn null; } } fun box(): String { val x = JavaClas	rn null; } } fun box(): String { val x = JavaClas
+rn null; } } fun box(): String { val x = JavaClass	n null; } } fun box(): String { val x = JavaClass
+n null; } } fun box(): String { val x = JavaClass.	 null; } } fun box(): String { val x = JavaClass.
+ null; } } fun box(): String { val x = JavaClass.i	null; } } fun box(): String { val x = JavaClass.i
+null; } } fun box(): String { val x = JavaClass.id	ull; } } fun box(): String { val x = JavaClass.id
+ull; } } fun box(): String { val x = JavaClass.id(	ll; } } fun box(): String { val x = JavaClass.id(
+ll; } } fun box(): String { val x = JavaClass.id(n	l; } } fun box(): String { val x = JavaClass.id(n
+l; } } fun box(): String { val x = JavaClass.id(nu	; } } fun box(): String { val x = JavaClass.id(nu
+; } } fun box(): String { val x = JavaClass.id(nul	 } } fun box(): String { val x = JavaClass.id(nul
+ } } fun box(): String { val x = JavaClass.id(null	} } fun box(): String { val x = JavaClass.id(null
+} } fun box(): String { val x = JavaClass.id(null)	 } fun box(): String { val x = JavaClass.id(null)
+ } fun box(): String { val x = JavaClass.id(null) 	} fun box(): String { val x = JavaClass.id(null) 
+} fun box(): String { val x = JavaClass.id(null) r	 fun box(): String { val x = JavaClass.id(null) r
+ fun box(): String { val x = JavaClass.id(null) re	fun box(): String { val x = JavaClass.id(null) re
+fun box(): String { val x = JavaClass.id(null) ret	un box(): String { val x = JavaClass.id(null) ret
+un box(): String { val x = JavaClass.id(null) retu	n box(): String { val x = JavaClass.id(null) retu
+n box(): String { val x = JavaClass.id(null) retur	 box(): String { val x = JavaClass.id(null) retur
+ box(): String { val x = JavaClass.id(null) return	box(): String { val x = JavaClass.id(null) return
+box(): String { val x = JavaClass.id(null) return 	ox(): String { val x = JavaClass.id(null) return 
+ox(): String { val x = JavaClass.id(null) return t	x(): String { val x = JavaClass.id(null) return t
+x(): String { val x = JavaClass.id(null) return tr	(): String { val x = JavaClass.id(null) return tr
+(): String { val x = JavaClass.id(null) return try	): String { val x = JavaClass.id(null) return try
+): String { val x = JavaClass.id(null) return try 	: String { val x = JavaClass.id(null) return try 
+: String { val x = JavaClass.id(null) return try {	 String { val x = JavaClass.id(null) return try {
+ String { val x = JavaClass.id(null) return try { 	String { val x = JavaClass.id(null) return try { 
+String { val x = JavaClass.id(null) return try { v	tring { val x = JavaClass.id(null) return try { v
+tring { val x = JavaClass.id(null) return try { va	ring { val x = JavaClass.id(null) return try { va
+ring { val x = JavaClass.id(null) return try { val	ing { val x = JavaClass.id(null) return try { val
+ing { val x = JavaClass.id(null) return try { val 	ng { val x = JavaClass.id(null) return try { val 
+ng { val x = JavaClass.id(null) return try { val a	g { val x = JavaClass.id(null) return try { val a
+g { val x = JavaClass.id(null) return try { val a 	 { val x = JavaClass.id(null) return try { val a 
+ { val x = JavaClass.id(null) return try { val a =	{ val x = JavaClass.id(null) return try { val a =
+{ val x = JavaClass.id(null) return try { val a = 	 val x = JavaClass.id(null) return try { val a = 
+ val x = JavaClass.id(null) return try { val a = i	val x = JavaClass.id(null) return try { val a = i
+val x = JavaClass.id(null) return try { val a = if	al x = JavaClass.id(null) return try { val a = if
+al x = JavaClass.id(null) return try { val a = if 	l x = JavaClass.id(null) return try { val a = if 
+l x = JavaClass.id(null) return try { val a = if (	 x = JavaClass.id(null) return try { val a = if (
+ x = JavaClass.id(null) return try { val a = if (x	x = JavaClass.id(null) return try { val a = if (x
+x = JavaClass.id(null) return try { val a = if (x)	 = JavaClass.id(null) return try { val a = if (x)
+ = JavaClass.id(null) return try { val a = if (x) 	= JavaClass.id(null) return try { val a = if (x) 
+= JavaClass.id(null) return try { val a = if (x) {	 JavaClass.id(null) return try { val a = if (x) {
+ JavaClass.id(null) return try { val a = if (x) { 	JavaClass.id(null) return try { val a = if (x) { 
+JavaClass.id(null) return try { val a = if (x) { "	avaClass.id(null) return try { val a = if (x) { "
+avaClass.id(null) return try { val a = if (x) { "N	vaClass.id(null) return try { val a = if (x) { "N
+vaClass.id(null) return try { val a = if (x) { "NO	aClass.id(null) return try { val a = if (x) { "NO
+aClass.id(null) return try { val a = if (x) { "NOK	Class.id(null) return try { val a = if (x) { "NOK
+Class.id(null) return try { val a = if (x) { "NOK"	lass.id(null) return try { val a = if (x) { "NOK"
+lass.id(null) return try { val a = if (x) { "NOK" 	ass.id(null) return try { val a = if (x) { "NOK" 
+ass.id(null) return try { val a = if (x) { "NOK" }	ss.id(null) return try { val a = if (x) { "NOK" }
+ss.id(null) return try { val a = if (x) { "NOK" } 	s.id(null) return try { val a = if (x) { "NOK" } 
+s.id(null) return try { val a = if (x) { "NOK" } e	.id(null) return try { val a = if (x) { "NOK" } e
+.id(null) return try { val a = if (x) { "NOK" } el	id(null) return try { val a = if (x) { "NOK" } el
+id(null) return try { val a = if (x) { "NOK" } els	d(null) return try { val a = if (x) { "NOK" } els
+d(null) return try { val a = if (x) { "NOK" } else	(null) return try { val a = if (x) { "NOK" } else
+(null) return try { val a = if (x) { "NOK" } else 	null) return try { val a = if (x) { "NOK" } else 
+null) return try { val a = if (x) { "NOK" } else "	ull) return try { val a = if (x) { "NOK" } else "
+ull) return try { val a = if (x) { "NOK" } else "N	ll) return try { val a = if (x) { "NOK" } else "N
+ll) return try { val a = if (x) { "NOK" } else "NO	l) return try { val a = if (x) { "NOK" } else "NO
+l) return try { val a = if (x) { "NOK" } else "NOK	) return try { val a = if (x) { "NOK" } else "NOK
+) return try { val a = if (x) { "NOK" } else "NOK"	 return try { val a = if (x) { "NOK" } else "NOK"
+ return try { val a = if (x) { "NOK" } else "NOK" 	return try { val a = if (x) { "NOK" } else "NOK" 
+return try { val a = if (x) { "NOK" } else "NOK" a	eturn try { val a = if (x) { "NOK" } else "NOK" a
+eturn try { val a = if (x) { "NOK" } else "NOK" a 	turn try { val a = if (x) { "NOK" } else "NOK" a 
+turn try { val a = if (x) { "NOK" } else "NOK" a }	urn try { val a = if (x) { "NOK" } else "NOK" a }
+urn try { val a = if (x) { "NOK" } else "NOK" a } 	rn try { val a = if (x) { "NOK" } else "NOK" a } 
+rn try { val a = if (x) { "NOK" } else "NOK" a } c	n try { val a = if (x) { "NOK" } else "NOK" a } c
+n try { val a = if (x) { "NOK" } else "NOK" a } ca	 try { val a = if (x) { "NOK" } else "NOK" a } ca
+ try { val a = if (x) { "NOK" } else "NOK" a } cat	try { val a = if (x) { "NOK" } else "NOK" a } cat
+try { val a = if (x) { "NOK" } else "NOK" a } catc	ry { val a = if (x) { "NOK" } else "NOK" a } catc
+ry { val a = if (x) { "NOK" } else "NOK" a } catch	y { val a = if (x) { "NOK" } else "NOK" a } catch
+y { val a = if (x) { "NOK" } else "NOK" a } catch 	 { val a = if (x) { "NOK" } else "NOK" a } catch 
+ { val a = if (x) { "NOK" } else "NOK" a } catch (	{ val a = if (x) { "NOK" } else "NOK" a } catch (
+{ val a = if (x) { "NOK" } else "NOK" a } catch (e	 val a = if (x) { "NOK" } else "NOK" a } catch (e
+ val a = if (x) { "NOK" } else "NOK" a } catch (e:	val a = if (x) { "NOK" } else "NOK" a } catch (e:
+val a = if (x) { "NOK" } else "NOK" a } catch (e: 	al a = if (x) { "NOK" } else "NOK" a } catch (e: 
+al a = if (x) { "NOK" } else "NOK" a } catch (e: j	l a = if (x) { "NOK" } else "NOK" a } catch (e: j
+l a = if (x) { "NOK" } else "NOK" a } catch (e: ja	 a = if (x) { "NOK" } else "NOK" a } catch (e: ja
+ a = if (x) { "NOK" } else "NOK" a } catch (e: jav	a = if (x) { "NOK" } else "NOK" a } catch (e: jav
+a = if (x) { "NOK" } else "NOK" a } catch (e: java	 = if (x) { "NOK" } else "NOK" a } catch (e: java
+ = if (x) { "NOK" } else "NOK" a } catch (e: java.	= if (x) { "NOK" } else "NOK" a } catch (e: java.
+= if (x) { "NOK" } else "NOK" a } catch (e: java.l	 if (x) { "NOK" } else "NOK" a } catch (e: java.l
+ if (x) { "NOK" } else "NOK" a } catch (e: java.la	if (x) { "NOK" } else "NOK" a } catch (e: java.la
+if (x) { "NOK" } else "NOK" a } catch (e: java.lan	f (x) { "NOK" } else "NOK" a } catch (e: java.lan
+f (x) { "NOK" } else "NOK" a } catch (e: java.lang	 (x) { "NOK" } else "NOK" a } catch (e: java.lang
+ (x) { "NOK" } else "NOK" a } catch (e: java.lang.	(x) { "NOK" } else "NOK" a } catch (e: java.lang.
+(x) { "NOK" } else "NOK" a } catch (e: java.lang.I	x) { "NOK" } else "NOK" a } catch (e: java.lang.I
+x) { "NOK" } else "NOK" a } catch (e: java.lang.Il	) { "NOK" } else "NOK" a } catch (e: java.lang.Il
+) { "NOK" } else "NOK" a } catch (e: java.lang.Ill	 { "NOK" } else "NOK" a } catch (e: java.lang.Ill
+ { "NOK" } else "NOK" a } catch (e: java.lang.Ille	{ "NOK" } else "NOK" a } catch (e: java.lang.Ille
+{ "NOK" } else "NOK" a } catch (e: java.lang.Illeg	 "NOK" } else "NOK" a } catch (e: java.lang.Illeg
+ "NOK" } else "NOK" a } catch (e: java.lang.Illega	"NOK" } else "NOK" a } catch (e: java.lang.Illega
+"NOK" } else "NOK" a } catch (e: java.lang.Illegal	NOK" } else "NOK" a } catch (e: java.lang.Illegal
+NOK" } else "NOK" a } catch (e: java.lang.IllegalS	OK" } else "NOK" a } catch (e: java.lang.IllegalS
+OK" } else "NOK" a } catch (e: java.lang.IllegalSt	K" } else "NOK" a } catch (e: java.lang.IllegalSt
+K" } else "NOK" a } catch (e: java.lang.IllegalSta	" } else "NOK" a } catch (e: java.lang.IllegalSta
+" } else "NOK" a } catch (e: java.lang.IllegalStat	 } else "NOK" a } catch (e: java.lang.IllegalStat
+ } else "NOK" a } catch (e: java.lang.IllegalState	} else "NOK" a } catch (e: java.lang.IllegalState
+} else "NOK" a } catch (e: java.lang.IllegalStateE	 else "NOK" a } catch (e: java.lang.IllegalStateE
+ else "NOK" a } catch (e: java.lang.IllegalStateEx	else "NOK" a } catch (e: java.lang.IllegalStateEx
+else "NOK" a } catch (e: java.lang.IllegalStateExc	lse "NOK" a } catch (e: java.lang.IllegalStateExc
+lse "NOK" a } catch (e: java.lang.IllegalStateExce	se "NOK" a } catch (e: java.lang.IllegalStateExce
+se "NOK" a } catch (e: java.lang.IllegalStateExcep	e "NOK" a } catch (e: java.lang.IllegalStateExcep
+e "NOK" a } catch (e: java.lang.IllegalStateExcept	 "NOK" a } catch (e: java.lang.IllegalStateExcept
+ "NOK" a } catch (e: java.lang.IllegalStateExcepti	"NOK" a } catch (e: java.lang.IllegalStateExcepti
+"NOK" a } catch (e: java.lang.IllegalStateExceptio	NOK" a } catch (e: java.lang.IllegalStateExceptio
+NOK" a } catch (e: java.lang.IllegalStateException	OK" a } catch (e: java.lang.IllegalStateException
+OK" a } catch (e: java.lang.IllegalStateException)	K" a } catch (e: java.lang.IllegalStateException)
+K" a } catch (e: java.lang.IllegalStateException) 	" a } catch (e: java.lang.IllegalStateException) 
+" a } catch (e: java.lang.IllegalStateException) {	 a } catch (e: java.lang.IllegalStateException) {
+ a } catch (e: java.lang.IllegalStateException) { 	a } catch (e: java.lang.IllegalStateException) { 
+a } catch (e: java.lang.IllegalStateException) { "	 } catch (e: java.lang.IllegalStateException) { "
+ } catch (e: java.lang.IllegalStateException) { "O	} catch (e: java.lang.IllegalStateException) { "O
+} catch (e: java.lang.IllegalStateException) { "OK	 catch (e: java.lang.IllegalStateException) { "OK
+ catch (e: java.lang.IllegalStateException) { "OK"	catch (e: java.lang.IllegalStateException) { "OK"
+catch (e: java.lang.IllegalStateException) { "OK" 	atch (e: java.lang.IllegalStateException) { "OK" 
+atch (e: java.lang.IllegalStateException) { "OK" }	tch (e: java.lang.IllegalStateException) { "OK" }
+ open class Bar(val x: Int) open class Foo { compa	open class Bar(val x: Int) open class Foo { compa
+open class Bar(val x: Int) open class Foo { compan	pen class Bar(val x: Int) open class Foo { compan
+pen class Bar(val x: Int) open class Foo { compani	en class Bar(val x: Int) open class Foo { compani
+en class Bar(val x: Int) open class Foo { companio	n class Bar(val x: Int) open class Foo { companio
+n class Bar(val x: Int) open class Foo { companion	 class Bar(val x: Int) open class Foo { companion
+ class Bar(val x: Int) open class Foo { companion 	class Bar(val x: Int) open class Foo { companion 
+class Bar(val x: Int) open class Foo { companion o	lass Bar(val x: Int) open class Foo { companion o
+lass Bar(val x: Int) open class Foo { companion ob	ass Bar(val x: Int) open class Foo { companion ob
+ass Bar(val x: Int) open class Foo { companion obj	ss Bar(val x: Int) open class Foo { companion obj
+ss Bar(val x: Int) open class Foo { companion obje	s Bar(val x: Int) open class Foo { companion obje
+s Bar(val x: Int) open class Foo { companion objec	 Bar(val x: Int) open class Foo { companion objec
+ Bar(val x: Int) open class Foo { companion object	Bar(val x: Int) open class Foo { companion object
+Bar(val x: Int) open class Foo { companion object 	ar(val x: Int) open class Foo { companion object 
+ar(val x: Int) open class Foo { companion object :	r(val x: Int) open class Foo { companion object :
+r(val x: Int) open class Foo { companion object : 	(val x: Int) open class Foo { companion object : 
+(val x: Int) open class Foo { companion object : B	val x: Int) open class Foo { companion object : B
+val x: Int) open class Foo { companion object : Ba	al x: Int) open class Foo { companion object : Ba
+al x: Int) open class Foo { companion object : Bar	l x: Int) open class Foo { companion object : Bar
+l x: Int) open class Foo { companion object : Bar(	 x: Int) open class Foo { companion object : Bar(
+ x: Int) open class Foo { companion object : Bar(F	x: Int) open class Foo { companion object : Bar(F
+x: Int) open class Foo { companion object : Bar(Fo	: Int) open class Foo { companion object : Bar(Fo
+: Int) open class Foo { companion object : Bar(Foo	 Int) open class Foo { companion object : Bar(Foo
+ Int) open class Foo { companion object : Bar(Foo.	Int) open class Foo { companion object : Bar(Foo.
+Int) open class Foo { companion object : Bar(Foo.x	nt) open class Foo { companion object : Bar(Foo.x
+nt) open class Foo { companion object : Bar(Foo.x)	t) open class Foo { companion object : Bar(Foo.x)
+t) open class Foo { companion object : Bar(Foo.x) 	) open class Foo { companion object : Bar(Foo.x) 
+) open class Foo { companion object : Bar(Foo.x) }	 open class Foo { companion object : Bar(Foo.x) }
+ open class Foo { companion object : Bar(Foo.x) } 	open class Foo { companion object : Bar(Foo.x) } 
+open class Foo { companion object : Bar(Foo.x) } f	pen class Foo { companion object : Bar(Foo.x) } f
+pen class Foo { companion object : Bar(Foo.x) } fu	en class Foo { companion object : Bar(Foo.x) } fu
+en class Foo { companion object : Bar(Foo.x) } fun	n class Foo { companion object : Bar(Foo.x) } fun
+n class Foo { companion object : Bar(Foo.x) } fun 	 class Foo { companion object : Bar(Foo.x) } fun 
+ class Foo { companion object : Bar(Foo.x) } fun b	class Foo { companion object : Bar(Foo.x) } fun b
+class Foo { companion object : Bar(Foo.x) } fun bo	lass Foo { companion object : Bar(Foo.x) } fun bo
+lass Foo { companion object : Bar(Foo.x) } fun box	ass Foo { companion object : Bar(Foo.x) } fun box
+ass Foo { companion object : Bar(Foo.x) } fun box(	ss Foo { companion object : Bar(Foo.x) } fun box(
+ss Foo { companion object : Bar(Foo.x) } fun box()	s Foo { companion object : Bar(Foo.x) } fun box()
+s Foo { companion object : Bar(Foo.x) } fun box():	 Foo { companion object : Bar(Foo.x) } fun box():
+ Foo { companion object : Bar(Foo.x) } fun box(): 	Foo { companion object : Bar(Foo.x) } fun box(): 
+Foo { companion object : Bar(Foo.x) } fun box(): S	oo { companion object : Bar(Foo.x) } fun box(): S
+oo { companion object : Bar(Foo.x) } fun box(): St	o { companion object : Bar(Foo.x) } fun box(): St
+o { companion object : Bar(Foo.x) } fun box(): Str	 { companion object : Bar(Foo.x) } fun box(): Str
+ { companion object : Bar(Foo.x) } fun box(): Stri	{ companion object : Bar(Foo.x) } fun box(): Stri
+{ companion object : Bar(Foo.x) } fun box(): Strin	 companion object : Bar(Foo.x) } fun box(): Strin
+ companion object : Bar(Foo.x) } fun box(): String	companion object : Bar(Foo.x) } fun box(): String
+companion object : Bar(Foo.x) } fun box(): String?	ompanion object : Bar(Foo.x) } fun box(): String?
+ompanion object : Bar(Foo.x) } fun box(): String? 	mpanion object : Bar(Foo.x) } fun box(): String? 
+mpanion object : Bar(Foo.x) } fun box(): String? {	panion object : Bar(Foo.x) } fun box(): String? {
+panion object : Bar(Foo.x) } fun box(): String? { 	anion object : Bar(Foo.x) } fun box(): String? { 
+anion object : Bar(Foo.x) } fun box(): String? { i	nion object : Bar(Foo.x) } fun box(): String? { i
+nion object : Bar(Foo.x) } fun box(): String? { if	ion object : Bar(Foo.x) } fun box(): String? { if
+ion object : Bar(Foo.x) } fun box(): String? { if 	on object : Bar(Foo.x) } fun box(): String? { if 
+on object : Bar(Foo.x) } fun box(): String? { if (	n object : Bar(Foo.x) } fun box(): String? { if (
+n object : Bar(Foo.x) } fun box(): String? { if (F	 object : Bar(Foo.x) } fun box(): String? { if (F
+ object : Bar(Foo.x) } fun box(): String? { if (Fo	object : Bar(Foo.x) } fun box(): String? { if (Fo
+object : Bar(Foo.x) } fun box(): String? { if (Foo	bject : Bar(Foo.x) } fun box(): String? { if (Foo
+bject : Bar(Foo.x) } fun box(): String? { if (Foo(	ject : Bar(Foo.x) } fun box(): String? { if (Foo(
+ject : Bar(Foo.x) } fun box(): String? { if (Foo()	ect : Bar(Foo.x) } fun box(): String? { if (Foo()
+ect : Bar(Foo.x) } fun box(): String? { if (Foo() 	ct : Bar(Foo.x) } fun box(): String? { if (Foo() 
+ct : Bar(Foo.x) } fun box(): String? { if (Foo() =	t : Bar(Foo.x) } fun box(): String? { if (Foo() =
+t : Bar(Foo.x) } fun box(): String? { if (Foo() ==	 : Bar(Foo.x) } fun box(): String? { if (Foo() ==
+ : Bar(Foo.x) } fun box(): String? { if (Foo() == 	: Bar(Foo.x) } fun box(): String? { if (Foo() == 
+: Bar(Foo.x) } fun box(): String? { if (Foo() == n	 Bar(Foo.x) } fun box(): String? { if (Foo() == n
+ Bar(Foo.x) } fun box(): String? { if (Foo() == nu	Bar(Foo.x) } fun box(): String? { if (Foo() == nu
+Bar(Foo.x) } fun box(): String? { if (Foo() == nul	ar(Foo.x) } fun box(): String? { if (Foo() == nul
+ar(Foo.x) } fun box(): String? { if (Foo() == null	r(Foo.x) } fun box(): String? { if (Foo() == null
+r(Foo.x) } fun box(): String? { if (Foo() == null)	(Foo.x) } fun box(): String? { if (Foo() == null)
+(Foo.x) } fun box(): String? { if (Foo() == null) 	Foo.x) } fun box(): String? { if (Foo() == null) 
+Foo.x) } fun box(): String? { if (Foo() == null) r	oo.x) } fun box(): String? { if (Foo() == null) r
+oo.x) } fun box(): String? { if (Foo() == null) re	o.x) } fun box(): String? { if (Foo() == null) re
+o.x) } fun box(): String? { if (Foo() == null) ret	.x) } fun box(): String? { if (Foo() == null) ret
+.x) } fun box(): String? { if (Foo() == null) retu	x) } fun box(): String? { if (Foo() == null) retu
+x) } fun box(): String? { if (Foo() == null) retur	) } fun box(): String? { if (Foo() == null) retur
+) } fun box(): String? { if (Foo() == null) return	 } fun box(): String? { if (Foo() == null) return
+ } fun box(): String? { if (Foo() == null) return 	} fun box(): String? { if (Foo() == null) return 
+} fun box(): String? { if (Foo() == null) return n	 fun box(): String? { if (Foo() == null) return n
+ fun box(): String? { if (Foo() == null) return nu	fun box(): String? { if (Foo() == null) return nu
+fun box(): String? { if (Foo() == null) return nul	un box(): String? { if (Foo() == null) return nul
+un box(): String? { if (Foo() == null) return null	n box(): String? { if (Foo() == null) return null
+n box(): String? { if (Foo() == null) return null 	 box(): String? { if (Foo() == null) return null 
+ box(): String? { if (Foo() == null) return null r	box(): String? { if (Foo() == null) return null r
+box(): String? { if (Foo() == null) return null re	ox(): String? { if (Foo() == null) return null re
+ox(): String? { if (Foo() == null) return null ret	x(): String? { if (Foo() == null) return null ret
+x(): String? { if (Foo() == null) return null retu	(): String? { if (Foo() == null) return null retu
+(): String? { if (Foo() == null) return null retur	): String? { if (Foo() == null) return null retur
+): String? { if (Foo() == null) return null return	: String? { if (Foo() == null) return null return
+: String? { if (Foo() == null) return null return 	 String? { if (Foo() == null) return null return 
+ String? { if (Foo() == null) return null return "	String? { if (Foo() == null) return null return "
+String? { if (Foo() == null) return null return "O	tring? { if (Foo() == null) return null return "O
+tring? { if (Foo() == null) return null return "OK	ring? { if (Foo() == null) return null return "OK
+ring? { if (Foo() == null) return null return "OK"	ing? { if (Foo() == null) return null return "OK"
+ing? { if (Foo() == null) return null return "OK" 	ng? { if (Foo() == null) return null return "OK" 
+ open class Bar(val x: Int) open class Foo { compa	open class Bar(val x: Int) open class Foo { compa
+open class Bar(val x: Int) open class Foo { compan	pen class Bar(val x: Int) open class Foo { compan
+pen class Bar(val x: Int) open class Foo { compani	en class Bar(val x: Int) open class Foo { compani
+en class Bar(val x: Int) open class Foo { companio	n class Bar(val x: Int) open class Foo { companio
+n class Bar(val x: Int) open class Foo { companion	 class Bar(val x: Int) open class Foo { companion
+ class Bar(val x: Int) open class Foo { companion 	class Bar(val x: Int) open class Foo { companion 
+class Bar(val x: Int) open class Foo { companion o	lass Bar(val x: Int) open class Foo { companion o
+lass Bar(val x: Int) open class Foo { companion ob	ass Bar(val x: Int) open class Foo { companion ob
+ass Bar(val x: Int) open class Foo { companion obj	ss Bar(val x: Int) open class Foo { companion obj
+ss Bar(val x: Int) open class Foo { companion obje	s Bar(val x: Int) open class Foo { companion obje
+s Bar(val x: Int) open class Foo { companion objec	 Bar(val x: Int) open class Foo { companion objec
+ Bar(val x: Int) open class Foo { companion object	Bar(val x: Int) open class Foo { companion object
+Bar(val x: Int) open class Foo { companion object 	ar(val x: Int) open class Foo { companion object 
+ar(val x: Int) open class Foo { companion object :	r(val x: Int) open class Foo { companion object :
+r(val x: Int) open class Foo { companion object : 	(val x: Int) open class Foo { companion object : 
+(val x: Int) open class Foo { companion object : B	val x: Int) open class Foo { companion object : B
+val x: Int) open class Foo { companion object : Ba	al x: Int) open class Foo { companion object : Ba
+al x: Int) open class Foo { companion object : Bar	l x: Int) open class Foo { companion object : Bar
+l x: Int) open class Foo { companion object : Bar(	 x: Int) open class Foo { companion object : Bar(
+ x: Int) open class Foo { companion object : Bar(F	x: Int) open class Foo { companion object : Bar(F
+x: Int) open class Foo { companion object : Bar(Fo	: Int) open class Foo { companion object : Bar(Fo
+: Int) open class Foo { companion object : Bar(Foo	 Int) open class Foo { companion object : Bar(Foo
+ Int) open class Foo { companion object : Bar(Foo.	Int) open class Foo { companion object : Bar(Foo.
+Int) open class Foo { companion object : Bar(Foo.x	nt) open class Foo { companion object : Bar(Foo.x
+nt) open class Foo { companion object : Bar(Foo.x)	t) open class Foo { companion object : Bar(Foo.x)
+t) open class Foo { companion object : Bar(Foo.x) 	) open class Foo { companion object : Bar(Foo.x) 
+) open class Foo { companion object : Bar(Foo.x) }	 open class Foo { companion object : Bar(Foo.x) }
+ open class Foo { companion object : Bar(Foo.x) } 	open class Foo { companion object : Bar(Foo.x) } 
+open class Foo { companion object : Bar(Foo.x) } f	pen class Foo { companion object : Bar(Foo.x) } f
+pen class Foo { companion object : Bar(Foo.x) } fu	en class Foo { companion object : Bar(Foo.x) } fu
+en class Foo { companion object : Bar(Foo.x) } fun	n class Foo { companion object : Bar(Foo.x) } fun
+n class Foo { companion object : Bar(Foo.x) } fun 	 class Foo { companion object : Bar(Foo.x) } fun 
+ class Foo { companion object : Bar(Foo.x) } fun b	class Foo { companion object : Bar(Foo.x) } fun b
+class Foo { companion object : Bar(Foo.x) } fun bo	lass Foo { companion object : Bar(Foo.x) } fun bo
+lass Foo { companion object : Bar(Foo.x) } fun box	ass Foo { companion object : Bar(Foo.x) } fun box
+ass Foo { companion object : Bar(Foo.x) } fun box(	ss Foo { companion object : Bar(Foo.x) } fun box(
+ss Foo { companion object : Bar(Foo.x) } fun box()	s Foo { companion object : Bar(Foo.x) } fun box()
+s Foo { companion object : Bar(Foo.x) } fun box():	 Foo { companion object : Bar(Foo.x) } fun box():
+ Foo { companion object : Bar(Foo.x) } fun box(): 	Foo { companion object : Bar(Foo.x) } fun box(): 
+Foo { companion object : Bar(Foo.x) } fun box(): S	oo { companion object : Bar(Foo.x) } fun box(): S
+oo { companion object : Bar(Foo.x) } fun box(): St	o { companion object : Bar(Foo.x) } fun box(): St
+o { companion object : Bar(Foo.x) } fun box(): Str	 { companion object : Bar(Foo.x) } fun box(): Str
+ { companion object : Bar(Foo.x) } fun box(): Stri	{ companion object : Bar(Foo.x) } fun box(): Stri
+{ companion object : Bar(Foo.x) } fun box(): Strin	 companion object : Bar(Foo.x) } fun box(): Strin
+ companion object : Bar(Foo.x) } fun box(): String	companion object : Bar(Foo.x) } fun box(): String
+companion object : Bar(Foo.x) } fun box(): String?	ompanion object : Bar(Foo.x) } fun box(): String?
+ompanion object : Bar(Foo.x) } fun box(): String? 	mpanion object : Bar(Foo.x) } fun box(): String? 
+mpanion object : Bar(Foo.x) } fun box(): String? {	panion object : Bar(Foo.x) } fun box(): String? {
+panion object : Bar(Foo.x) } fun box(): String? { 	anion object : Bar(Foo.x) } fun box(): String? { 
+anion object : Bar(Foo.x) } fun box(): String? { i	nion object : Bar(Foo.x) } fun box(): String? { i
+nion object : Bar(Foo.x) } fun box(): String? { if	ion object : Bar(Foo.x) } fun box(): String? { if
+ion object : Bar(Foo.x) } fun box(): String? { if 	on object : Bar(Foo.x) } fun box(): String? { if 
+on object : Bar(Foo.x) } fun box(): String? { if (	n object : Bar(Foo.x) } fun box(): String? { if (
+n object : Bar(Foo.x) } fun box(): String? { if (F	 object : Bar(Foo.x) } fun box(): String? { if (F
+ object : Bar(Foo.x) } fun box(): String? { if (Fo	object : Bar(Foo.x) } fun box(): String? { if (Fo
+object : Bar(Foo.x) } fun box(): String? { if (Foo	bject : Bar(Foo.x) } fun box(): String? { if (Foo
+bject : Bar(Foo.x) } fun box(): String? { if (Foo(	ject : Bar(Foo.x) } fun box(): String? { if (Foo(
+ject : Bar(Foo.x) } fun box(): String? { if (Foo()	ect : Bar(Foo.x) } fun box(): String? { if (Foo()
+ect : Bar(Foo.x) } fun box(): String? { if (Foo() 	ct : Bar(Foo.x) } fun box(): String? { if (Foo() 
+ct : Bar(Foo.x) } fun box(): String? { if (Foo() =	t : Bar(Foo.x) } fun box(): String? { if (Foo() =
+t : Bar(Foo.x) } fun box(): String? { if (Foo() ==	 : Bar(Foo.x) } fun box(): String? { if (Foo() ==
+ : Bar(Foo.x) } fun box(): String? { if (Foo() == 	: Bar(Foo.x) } fun box(): String? { if (Foo() == 
+: Bar(Foo.x) } fun box(): String? { if (Foo() == n	 Bar(Foo.x) } fun box(): String? { if (Foo() == n
+ Bar(Foo.x) } fun box(): String? { if (Foo() == nu	Bar(Foo.x) } fun box(): String? { if (Foo() == nu
+Bar(Foo.x) } fun box(): String? { if (Foo() == nul	ar(Foo.x) } fun box(): String? { if (Foo() == nul
+ar(Foo.x) } fun box(): String? { if (Foo() == null	r(Foo.x) } fun box(): String? { if (Foo() == null
+r(Foo.x) } fun box(): String? { if (Foo() == null)	(Foo.x) } fun box(): String? { if (Foo() == null)
+(Foo.x) } fun box(): String? { if (Foo() == null) 	Foo.x) } fun box(): String? { if (Foo() == null) 
+Foo.x) } fun box(): String? { if (Foo() == null) r	oo.x) } fun box(): String? { if (Foo() == null) r
+oo.x) } fun box(): String? { if (Foo() == null) re	o.x) } fun box(): String? { if (Foo() == null) re
+o.x) } fun box(): String? { if (Foo() == null) ret	.x) } fun box(): String? { if (Foo() == null) ret
+.x) } fun box(): String? { if (Foo() == null) retu	x) } fun box(): String? { if (Foo() == null) retu
+x) } fun box(): String? { if (Foo() == null) retur	) } fun box(): String? { if (Foo() == null) retur
+) } fun box(): String? { if (Foo() == null) return	 } fun box(): String? { if (Foo() == null) return
+ } fun box(): String? { if (Foo() == null) return 	} fun box(): String? { if (Foo() == null) return 
+} fun box(): String? { if (Foo() == null) return n	 fun box(): String? { if (Foo() == null) return n
+ fun box(): String? { if (Foo() == null) return nu	fun box(): String? { if (Foo() == null) return nu
+fun box(): String? { if (Foo() == null) return nul	un box(): String? { if (Foo() == null) return nul
+un box(): String? { if (Foo() == null) return null	n box(): String? { if (Foo() == null) return null
+n box(): String? { if (Foo() == null) return null 	 box(): String? { if (Foo() == null) return null 
+ box(): String? { if (Foo() == null) return null r	box(): String? { if (Foo() == null) return null r
+box(): String? { if (Foo() == null) return null re	ox(): String? { if (Foo() == null) return null re
+ox(): String? { if (Foo() == null) return null ret	x(): String? { if (Foo() == null) return null ret
+x(): String? { if (Foo() == null) return null retu	(): String? { if (Foo() == null) return null retu
+(): String? { if (Foo() == null) return null retur	): String? { if (Foo() == null) return null retur
+): String? { if (Foo() == null) return null return	: String? { if (Foo() == null) return null return
+: String? { if (Foo() == null) return null return 	 String? { if (Foo() == null) return null return 
+ String? { if (Foo() == null) return null return "	String? { if (Foo() == null) return null return "
+String? { if (Foo() == null) return null return "O	tring? { if (Foo() == null) return null return "O
+tring? { if (Foo() == null) return null return "OK	ring? { if (Foo() == null) return null return "OK
+ring? { if (Foo() == null) return null return "OK"	ing? { if (Foo() == null) return null return "OK"
+ing? { if (Foo() == null) return null return "OK" 	ng? { if (Foo() == null) return null return "OK" 
+ open class Bar(val x: Int) open class Foo { compa	open class Bar(val x: Int) open class Foo { compa
+open class Bar(val x: Int) open class Foo { compan	pen class Bar(val x: Int) open class Foo { compan
+pen class Bar(val x: Int) open class Foo { compani	en class Bar(val x: Int) open class Foo { compani
+en class Bar(val x: Int) open class Foo { companio	n class Bar(val x: Int) open class Foo { companio
+n class Bar(val x: Int) open class Foo { companion	 class Bar(val x: Int) open class Foo { companion
+ class Bar(val x: Int) open class Foo { companion 	class Bar(val x: Int) open class Foo { companion 
+class Bar(val x: Int) open class Foo { companion o	lass Bar(val x: Int) open class Foo { companion o
+lass Bar(val x: Int) open class Foo { companion ob	ass Bar(val x: Int) open class Foo { companion ob
+ass Bar(val x: Int) open class Foo { companion obj	ss Bar(val x: Int) open class Foo { companion obj
+ss Bar(val x: Int) open class Foo { companion obje	s Bar(val x: Int) open class Foo { companion obje
+s Bar(val x: Int) open class Foo { companion objec	 Bar(val x: Int) open class Foo { companion objec
+ Bar(val x: Int) open class Foo { companion object	Bar(val x: Int) open class Foo { companion object
+Bar(val x: Int) open class Foo { companion object 	ar(val x: Int) open class Foo { companion object 
+ar(val x: Int) open class Foo { companion object :	r(val x: Int) open class Foo { companion object :
+r(val x: Int) open class Foo { companion object : 	(val x: Int) open class Foo { companion object : 
+(val x: Int) open class Foo { companion object : B	val x: Int) open class Foo { companion object : B
+val x: Int) open class Foo { companion object : Ba	al x: Int) open class Foo { companion object : Ba
+al x: Int) open class Foo { companion object : Bar	l x: Int) open class Foo { companion object : Bar
+l x: Int) open class Foo { companion object : Bar(	 x: Int) open class Foo { companion object : Bar(
+ x: Int) open class Foo { companion object : Bar(F	x: Int) open class Foo { companion object : Bar(F
+x: Int) open class Foo { companion object : Bar(Fo	: Int) open class Foo { companion object : Bar(Fo
+: Int) open class Foo { companion object : Bar(Foo	 Int) open class Foo { companion object : Bar(Foo
+ Int) open class Foo { companion object : Bar(Foo.	Int) open class Foo { companion object : Bar(Foo.
+Int) open class Foo { companion object : Bar(Foo.p	nt) open class Foo { companion object : Bar(Foo.p
+nt) open class Foo { companion object : Bar(Foo.pr	t) open class Foo { companion object : Bar(Foo.pr
+t) open class Foo { companion object : Bar(Foo.pro	) open class Foo { companion object : Bar(Foo.pro
+) open class Foo { companion object : Bar(Foo.prop	 open class Foo { companion object : Bar(Foo.prop
+ open class Foo { companion object : Bar(Foo.prop)	open class Foo { companion object : Bar(Foo.prop)
+open class Foo { companion object : Bar(Foo.prop) 	pen class Foo { companion object : Bar(Foo.prop) 
+pen class Foo { companion object : Bar(Foo.prop) {	en class Foo { companion object : Bar(Foo.prop) {
+en class Foo { companion object : Bar(Foo.prop) { 	n class Foo { companion object : Bar(Foo.prop) { 
+n class Foo { companion object : Bar(Foo.prop) { c	 class Foo { companion object : Bar(Foo.prop) { c
+ class Foo { companion object : Bar(Foo.prop) { co	class Foo { companion object : Bar(Foo.prop) { co
+class Foo { companion object : Bar(Foo.prop) { con	lass Foo { companion object : Bar(Foo.prop) { con
+lass Foo { companion object : Bar(Foo.prop) { cons	ass Foo { companion object : Bar(Foo.prop) { cons
+ass Foo { companion object : Bar(Foo.prop) { const	ss Foo { companion object : Bar(Foo.prop) { const
+ss Foo { companion object : Bar(Foo.prop) { const 	s Foo { companion object : Bar(Foo.prop) { const 
+s Foo { companion object : Bar(Foo.prop) { const v	 Foo { companion object : Bar(Foo.prop) { const v
+ Foo { companion object : Bar(Foo.prop) { const va	Foo { companion object : Bar(Foo.prop) { const va
+Foo { companion object : Bar(Foo.prop) { const val	oo { companion object : Bar(Foo.prop) { const val
+oo { companion object : Bar(Foo.prop) { const val 	o { companion object : Bar(Foo.prop) { const val 
+o { companion object : Bar(Foo.prop) { const val p	 { companion object : Bar(Foo.prop) { const val p
+ { companion object : Bar(Foo.prop) { const val pr	{ companion object : Bar(Foo.prop) { const val pr
+{ companion object : Bar(Foo.prop) { const val pro	 companion object : Bar(Foo.prop) { const val pro
+ companion object : Bar(Foo.prop) { const val prop	companion object : Bar(Foo.prop) { const val prop
+companion object : Bar(Foo.prop) { const val prop:	ompanion object : Bar(Foo.prop) { const val prop:
+ompanion object : Bar(Foo.prop) { const val prop: 	mpanion object : Bar(Foo.prop) { const val prop: 
+mpanion object : Bar(Foo.prop) { const val prop: I	panion object : Bar(Foo.prop) { const val prop: I
+panion object : Bar(Foo.prop) { const val prop: In	anion object : Bar(Foo.prop) { const val prop: In
+anion object : Bar(Foo.prop) { const val prop: Int	nion object : Bar(Foo.prop) { const val prop: Int
+nion object : Bar(Foo.prop) { const val prop: Int 	ion object : Bar(Foo.prop) { const val prop: Int 
+ion object : Bar(Foo.prop) { const val prop: Int =	on object : Bar(Foo.prop) { const val prop: Int =
+on object : Bar(Foo.prop) { const val prop: Int = 	n object : Bar(Foo.prop) { const val prop: Int = 
+n object : Bar(Foo.prop) { const val prop: Int = 1	 object : Bar(Foo.prop) { const val prop: Int = 1
+ object : Bar(Foo.prop) { const val prop: Int = 10	object : Bar(Foo.prop) { const val prop: Int = 10
+object : Bar(Foo.prop) { const val prop: Int = 10 	bject : Bar(Foo.prop) { const val prop: Int = 10 
+bject : Bar(Foo.prop) { const val prop: Int = 10 }	ject : Bar(Foo.prop) { const val prop: Int = 10 }
+ject : Bar(Foo.prop) { const val prop: Int = 10 } 	ect : Bar(Foo.prop) { const val prop: Int = 10 } 
+ect : Bar(Foo.prop) { const val prop: Int = 10 } }	ct : Bar(Foo.prop) { const val prop: Int = 10 } }
+ct : Bar(Foo.prop) { const val prop: Int = 10 } } 	t : Bar(Foo.prop) { const val prop: Int = 10 } } 
+t : Bar(Foo.prop) { const val prop: Int = 10 } } f	 : Bar(Foo.prop) { const val prop: Int = 10 } } f
+ : Bar(Foo.prop) { const val prop: Int = 10 } } fu	: Bar(Foo.prop) { const val prop: Int = 10 } } fu
+: Bar(Foo.prop) { const val prop: Int = 10 } } fun	 Bar(Foo.prop) { const val prop: Int = 10 } } fun
+ Bar(Foo.prop) { const val prop: Int = 10 } } fun 	Bar(Foo.prop) { const val prop: Int = 10 } } fun 
+Bar(Foo.prop) { const val prop: Int = 10 } } fun b	ar(Foo.prop) { const val prop: Int = 10 } } fun b
+ar(Foo.prop) { const val prop: Int = 10 } } fun bo	r(Foo.prop) { const val prop: Int = 10 } } fun bo
+r(Foo.prop) { const val prop: Int = 10 } } fun box	(Foo.prop) { const val prop: Int = 10 } } fun box
+(Foo.prop) { const val prop: Int = 10 } } fun box(	Foo.prop) { const val prop: Int = 10 } } fun box(
+Foo.prop) { const val prop: Int = 10 } } fun box()	oo.prop) { const val prop: Int = 10 } } fun box()
+oo.prop) { const val prop: Int = 10 } } fun box():	o.prop) { const val prop: Int = 10 } } fun box():
+o.prop) { const val prop: Int = 10 } } fun box(): 	.prop) { const val prop: Int = 10 } } fun box(): 
+.prop) { const val prop: Int = 10 } } fun box(): S	prop) { const val prop: Int = 10 } } fun box(): S
+prop) { const val prop: Int = 10 } } fun box(): St	rop) { const val prop: Int = 10 } } fun box(): St
+rop) { const val prop: Int = 10 } } fun box(): Str	op) { const val prop: Int = 10 } } fun box(): Str
+op) { const val prop: Int = 10 } } fun box(): Stri	p) { const val prop: Int = 10 } } fun box(): Stri
+p) { const val prop: Int = 10 } } fun box(): Strin	) { const val prop: Int = 10 } } fun box(): Strin
+) { const val prop: Int = 10 } } fun box(): String	 { const val prop: Int = 10 } } fun box(): String
+ { const val prop: Int = 10 } } fun box(): String?	{ const val prop: Int = 10 } } fun box(): String?
+{ const val prop: Int = 10 } } fun box(): String? 	 const val prop: Int = 10 } } fun box(): String? 
+ const val prop: Int = 10 } } fun box(): String? {	const val prop: Int = 10 } } fun box(): String? {
+const val prop: Int = 10 } } fun box(): String? { 	onst val prop: Int = 10 } } fun box(): String? { 
+onst val prop: Int = 10 } } fun box(): String? { F	nst val prop: Int = 10 } } fun box(): String? { F
+nst val prop: Int = 10 } } fun box(): String? { Fo	st val prop: Int = 10 } } fun box(): String? { Fo
+st val prop: Int = 10 } } fun box(): String? { Foo	t val prop: Int = 10 } } fun box(): String? { Foo
+t val prop: Int = 10 } } fun box(): String? { Foo(	 val prop: Int = 10 } } fun box(): String? { Foo(
+ val prop: Int = 10 } } fun box(): String? { Foo()	val prop: Int = 10 } } fun box(): String? { Foo()
+val prop: Int = 10 } } fun box(): String? { Foo() 	al prop: Int = 10 } } fun box(): String? { Foo() 
+al prop: Int = 10 } } fun box(): String? { Foo() r	l prop: Int = 10 } } fun box(): String? { Foo() r
+l prop: Int = 10 } } fun box(): String? { Foo() re	 prop: Int = 10 } } fun box(): String? { Foo() re
+ prop: Int = 10 } } fun box(): String? { Foo() ret	prop: Int = 10 } } fun box(): String? { Foo() ret
+prop: Int = 10 } } fun box(): String? { Foo() retu	rop: Int = 10 } } fun box(): String? { Foo() retu
+rop: Int = 10 } } fun box(): String? { Foo() retur	op: Int = 10 } } fun box(): String? { Foo() retur
+op: Int = 10 } } fun box(): String? { Foo() return	p: Int = 10 } } fun box(): String? { Foo() return
+p: Int = 10 } } fun box(): String? { Foo() return 	: Int = 10 } } fun box(): String? { Foo() return 
+: Int = 10 } } fun box(): String? { Foo() return "	 Int = 10 } } fun box(): String? { Foo() return "
+ Int = 10 } } fun box(): String? { Foo() return "O	Int = 10 } } fun box(): String? { Foo() return "O
+Int = 10 } } fun box(): String? { Foo() return "OK	nt = 10 } } fun box(): String? { Foo() return "OK
+nt = 10 } } fun box(): String? { Foo() return "OK"	t = 10 } } fun box(): String? { Foo() return "OK"
+ open class Bar(val x: Int) open class Foo { compa	open class Bar(val x: Int) open class Foo { compa
+open class Bar(val x: Int) open class Foo { compan	pen class Bar(val x: Int) open class Foo { compan
+pen class Bar(val x: Int) open class Foo { compani	en class Bar(val x: Int) open class Foo { compani
+en class Bar(val x: Int) open class Foo { companio	n class Bar(val x: Int) open class Foo { companio
+n class Bar(val x: Int) open class Foo { companion	 class Bar(val x: Int) open class Foo { companion
+ class Bar(val x: Int) open class Foo { companion 	class Bar(val x: Int) open class Foo { companion 
+class Bar(val x: Int) open class Foo { companion o	lass Bar(val x: Int) open class Foo { companion o
+lass Bar(val x: Int) open class Foo { companion ob	ass Bar(val x: Int) open class Foo { companion ob
+ass Bar(val x: Int) open class Foo { companion obj	ss Bar(val x: Int) open class Foo { companion obj
+ss Bar(val x: Int) open class Foo { companion obje	s Bar(val x: Int) open class Foo { companion obje
+s Bar(val x: Int) open class Foo { companion objec	 Bar(val x: Int) open class Foo { companion objec
+ Bar(val x: Int) open class Foo { companion object	Bar(val x: Int) open class Foo { companion object
+Bar(val x: Int) open class Foo { companion object 	ar(val x: Int) open class Foo { companion object 
+ar(val x: Int) open class Foo { companion object :	r(val x: Int) open class Foo { companion object :
+r(val x: Int) open class Foo { companion object : 	(val x: Int) open class Foo { companion object : 
+(val x: Int) open class Foo { companion object : B	val x: Int) open class Foo { companion object : B
+val x: Int) open class Foo { companion object : Ba	al x: Int) open class Foo { companion object : Ba
+al x: Int) open class Foo { companion object : Bar	l x: Int) open class Foo { companion object : Bar
+l x: Int) open class Foo { companion object : Bar(	 x: Int) open class Foo { companion object : Bar(
+ x: Int) open class Foo { companion object : Bar(F	x: Int) open class Foo { companion object : Bar(F
+x: Int) open class Foo { companion object : Bar(Fo	: Int) open class Foo { companion object : Bar(Fo
+: Int) open class Foo { companion object : Bar(Foo	 Int) open class Foo { companion object : Bar(Foo
+ Int) open class Foo { companion object : Bar(Foo.	Int) open class Foo { companion object : Bar(Foo.
+Int) open class Foo { companion object : Bar(Foo.p	nt) open class Foo { companion object : Bar(Foo.p
+nt) open class Foo { companion object : Bar(Foo.pr	t) open class Foo { companion object : Bar(Foo.pr
+t) open class Foo { companion object : Bar(Foo.pro	) open class Foo { companion object : Bar(Foo.pro
+) open class Foo { companion object : Bar(Foo.prop	 open class Foo { companion object : Bar(Foo.prop
+ open class Foo { companion object : Bar(Foo.prop)	open class Foo { companion object : Bar(Foo.prop)
+open class Foo { companion object : Bar(Foo.prop) 	pen class Foo { companion object : Bar(Foo.prop) 
+pen class Foo { companion object : Bar(Foo.prop) {	en class Foo { companion object : Bar(Foo.prop) {
+en class Foo { companion object : Bar(Foo.prop) { 	n class Foo { companion object : Bar(Foo.prop) { 
+n class Foo { companion object : Bar(Foo.prop) { c	 class Foo { companion object : Bar(Foo.prop) { c
+ class Foo { companion object : Bar(Foo.prop) { co	class Foo { companion object : Bar(Foo.prop) { co
+class Foo { companion object : Bar(Foo.prop) { con	lass Foo { companion object : Bar(Foo.prop) { con
+lass Foo { companion object : Bar(Foo.prop) { cons	ass Foo { companion object : Bar(Foo.prop) { cons
+ass Foo { companion object : Bar(Foo.prop) { const	ss Foo { companion object : Bar(Foo.prop) { const
+ss Foo { companion object : Bar(Foo.prop) { const 	s Foo { companion object : Bar(Foo.prop) { const 
+s Foo { companion object : Bar(Foo.prop) { const v	 Foo { companion object : Bar(Foo.prop) { const v
+ Foo { companion object : Bar(Foo.prop) { const va	Foo { companion object : Bar(Foo.prop) { const va
+Foo { companion object : Bar(Foo.prop) { const val	oo { companion object : Bar(Foo.prop) { const val
+oo { companion object : Bar(Foo.prop) { const val 	o { companion object : Bar(Foo.prop) { const val 
+o { companion object : Bar(Foo.prop) { const val p	 { companion object : Bar(Foo.prop) { const val p
+ { companion object : Bar(Foo.prop) { const val pr	{ companion object : Bar(Foo.prop) { const val pr
+{ companion object : Bar(Foo.prop) { const val pro	 companion object : Bar(Foo.prop) { const val pro
+ companion object : Bar(Foo.prop) { const val prop	companion object : Bar(Foo.prop) { const val prop
+companion object : Bar(Foo.prop) { const val prop:	ompanion object : Bar(Foo.prop) { const val prop:
+ompanion object : Bar(Foo.prop) { const val prop: 	mpanion object : Bar(Foo.prop) { const val prop: 
+mpanion object : Bar(Foo.prop) { const val prop: I	panion object : Bar(Foo.prop) { const val prop: I
+panion object : Bar(Foo.prop) { const val prop: In	anion object : Bar(Foo.prop) { const val prop: In
+anion object : Bar(Foo.prop) { const val prop: Int	nion object : Bar(Foo.prop) { const val prop: Int
+nion object : Bar(Foo.prop) { const val prop: Int 	ion object : Bar(Foo.prop) { const val prop: Int 
+ion object : Bar(Foo.prop) { const val prop: Int =	on object : Bar(Foo.prop) { const val prop: Int =
+on object : Bar(Foo.prop) { const val prop: Int = 	n object : Bar(Foo.prop) { const val prop: Int = 
+n object : Bar(Foo.prop) { const val prop: Int = 1	 object : Bar(Foo.prop) { const val prop: Int = 1
+ object : Bar(Foo.prop) { const val prop: Int = 10	object : Bar(Foo.prop) { const val prop: Int = 10
+object : Bar(Foo.prop) { const val prop: Int = 10 	bject : Bar(Foo.prop) { const val prop: Int = 10 
+bject : Bar(Foo.prop) { const val prop: Int = 10 }	ject : Bar(Foo.prop) { const val prop: Int = 10 }
+ject : Bar(Foo.prop) { const val prop: Int = 10 } 	ect : Bar(Foo.prop) { const val prop: Int = 10 } 
+ect : Bar(Foo.prop) { const val prop: Int = 10 } }	ct : Bar(Foo.prop) { const val prop: Int = 10 } }
+ct : Bar(Foo.prop) { const val prop: Int = 10 } } 	t : Bar(Foo.prop) { const val prop: Int = 10 } } 
+t : Bar(Foo.prop) { const val prop: Int = 10 } } f	 : Bar(Foo.prop) { const val prop: Int = 10 } } f
+ : Bar(Foo.prop) { const val prop: Int = 10 } } fu	: Bar(Foo.prop) { const val prop: Int = 10 } } fu
+: Bar(Foo.prop) { const val prop: Int = 10 } } fun	 Bar(Foo.prop) { const val prop: Int = 10 } } fun
+ Bar(Foo.prop) { const val prop: Int = 10 } } fun 	Bar(Foo.prop) { const val prop: Int = 10 } } fun 
+Bar(Foo.prop) { const val prop: Int = 10 } } fun b	ar(Foo.prop) { const val prop: Int = 10 } } fun b
+ar(Foo.prop) { const val prop: Int = 10 } } fun bo	r(Foo.prop) { const val prop: Int = 10 } } fun bo
+r(Foo.prop) { const val prop: Int = 10 } } fun box	(Foo.prop) { const val prop: Int = 10 } } fun box
+(Foo.prop) { const val prop: Int = 10 } } fun box(	Foo.prop) { const val prop: Int = 10 } } fun box(
+Foo.prop) { const val prop: Int = 10 } } fun box()	oo.prop) { const val prop: Int = 10 } } fun box()
+oo.prop) { const val prop: Int = 10 } } fun box():	o.prop) { const val prop: Int = 10 } } fun box():
+o.prop) { const val prop: Int = 10 } } fun box(): 	.prop) { const val prop: Int = 10 } } fun box(): 
+.prop) { const val prop: Int = 10 } } fun box(): S	prop) { const val prop: Int = 10 } } fun box(): S
+prop) { const val prop: Int = 10 } } fun box(): St	rop) { const val prop: Int = 10 } } fun box(): St
+rop) { const val prop: Int = 10 } } fun box(): Str	op) { const val prop: Int = 10 } } fun box(): Str
+op) { const val prop: Int = 10 } } fun box(): Stri	p) { const val prop: Int = 10 } } fun box(): Stri
+p) { const val prop: Int = 10 } } fun box(): Strin	) { const val prop: Int = 10 } } fun box(): Strin
+) { const val prop: Int = 10 } } fun box(): String	 { const val prop: Int = 10 } } fun box(): String
+ { const val prop: Int = 10 } } fun box(): String?	{ const val prop: Int = 10 } } fun box(): String?
+{ const val prop: Int = 10 } } fun box(): String? 	 const val prop: Int = 10 } } fun box(): String? 
+ const val prop: Int = 10 } } fun box(): String? {	const val prop: Int = 10 } } fun box(): String? {
+const val prop: Int = 10 } } fun box(): String? { 	onst val prop: Int = 10 } } fun box(): String? { 
+onst val prop: Int = 10 } } fun box(): String? { F	nst val prop: Int = 10 } } fun box(): String? { F
+nst val prop: Int = 10 } } fun box(): String? { Fo	st val prop: Int = 10 } } fun box(): String? { Fo
+st val prop: Int = 10 } } fun box(): String? { Foo	t val prop: Int = 10 } } fun box(): String? { Foo
+t val prop: Int = 10 } } fun box(): String? { Foo(	 val prop: Int = 10 } } fun box(): String? { Foo(
+ val prop: Int = 10 } } fun box(): String? { Foo()	val prop: Int = 10 } } fun box(): String? { Foo()
+val prop: Int = 10 } } fun box(): String? { Foo() 	al prop: Int = 10 } } fun box(): String? { Foo() 
+al prop: Int = 10 } } fun box(): String? { Foo() r	l prop: Int = 10 } } fun box(): String? { Foo() r
+l prop: Int = 10 } } fun box(): String? { Foo() re	 prop: Int = 10 } } fun box(): String? { Foo() re
+ prop: Int = 10 } } fun box(): String? { Foo() ret	prop: Int = 10 } } fun box(): String? { Foo() ret
+prop: Int = 10 } } fun box(): String? { Foo() retu	rop: Int = 10 } } fun box(): String? { Foo() retu
+rop: Int = 10 } } fun box(): String? { Foo() retur	op: Int = 10 } } fun box(): String? { Foo() retur
+op: Int = 10 } } fun box(): String? { Foo() return	p: Int = 10 } } fun box(): String? { Foo() return
+p: Int = 10 } } fun box(): String? { Foo() return 	: Int = 10 } } fun box(): String? { Foo() return 
+: Int = 10 } } fun box(): String? { Foo() return "	 Int = 10 } } fun box(): String? { Foo() return "
+ Int = 10 } } fun box(): String? { Foo() return "O	Int = 10 } } fun box(): String? { Foo() return "O
+Int = 10 } } fun box(): String? { Foo() return "OK	nt = 10 } } fun box(): String? { Foo() return "OK
+nt = 10 } } fun box(): String? { Foo() return "OK"	t = 10 } } fun box(): String? { Foo() return "OK"
