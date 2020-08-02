@@ -1,1 +1,0 @@
-grammarinator-generate -l CodeGen\KotlinUnlexer.py -p CodeGen\KotlinUnparser.py -r topLevelObject -t grammarinator.runtime.transformer.simple_space_transformer -d 50 --population trees --no-generate -o testM\test%d.kt -n 15
